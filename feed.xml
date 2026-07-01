@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research Digest</title>
+    <description>Academic papers turned into podcast conversations.</description>
+    <link>https://cdonaldson59.github.io/research-digest-podcast</link>
+    <language>en-us</language>
+    <itunes:author>Research Digest</itunes:author>
+    <itunes:category text="Education">
+      <itunes:category text="Higher Education"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://cdonaldson59.github.io/research-digest-podcast/cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>Research Digest</itunes:name>
+      <itunes:email>cdd59@cornell.edu</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>How Much Travel Do You Actually Need? The Science of Decent Mobility</title>
+      <description>How Much Travel Do You Actually Need? The Science of Decent Mobility — Research Digest</description>
+      <enclosure url="https://cdonaldson59.github.io/research-digest-podcast/episodes/Quantifying_minimum_mobility_and_transport_needs/episode.mp3" length="10265756" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://cdonaldson59.github.io/research-digest-podcast/episodes/Quantifying_minimum_mobility_and_transport_needs/episode.mp3</guid>
+    </item>
+  </channel>
+</rss>
